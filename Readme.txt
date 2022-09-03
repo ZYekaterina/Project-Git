@@ -35,7 +35,7 @@ DecisionTreeClassifier
 RandomForestClassifier
 LogisticRegression
 
-В результате их применения мы нашли лучшую модель, со следующеми показателями:
+В результате их применения мы нашли лучшую модель, со следующими показателями:
 
 Лучшая модель RandomForestRegressor 
 
